@@ -4,7 +4,7 @@
     "target": "es2020",
 
     "moduleResolution": "bundler",
-    "verbatimModuleSyntax": true,
+    "verbatimModuleSyntax": false,
     "isolatedModules": true,
 
     "strict": true,
